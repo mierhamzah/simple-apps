@@ -1,0 +1,6 @@
+.dockerignore
+node_modules
+package-lock.json
+sonar-project.properties
+testing
+database
