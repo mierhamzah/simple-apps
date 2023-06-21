@@ -1,6 +1,5 @@
 .dockerignore
 .env
-Dockerfile
 coverage
 node_modules
 package-lock.json
